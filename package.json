@@ -1,0 +1,12 @@
+{
+  "name": "redux-basics",
+  "version": "1.0.0",
+  "description": "learning redux-basics",
+  "main": "redux-basics.js",
+  "repository": "git@github.com:NomanGul/redux-basics.git",
+  "author": "NomanGul <nomangul2001@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "redux": "^4.0.1"
+  }
+}
