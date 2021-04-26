@@ -7,6 +7,6 @@
   "author": "NomanGul <nomangul2001@gmail.com>",
   "license": "MIT",
   "dependencies": {
-    "redux": "^4.0.1"
+    "redux": "^4.1.0"
   }
 }
